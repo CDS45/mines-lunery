@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.273197,
+          46.955433
+        ]
+      },
+      "properties": {
+        "name": "Puit des Grenades",
+        "discussion": "",
+        "scan3d": "https://skfb.ly/pIIS6",
+        "image": "https://media.sketchfab.com/models/8d66e0f8894d493682835c7d208b258a/thumbnails/f01cd217498040f8a7b8406c0312b6e1/8485a21ba07147279e6e42ef778b67c2.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.275218,
+          46.957981
+        ]
+      },
+      "properties": {
+        "name": "Puit du Renard",
+        "discussion": "",
+        "scan3d": "https://skfb.ly/pIIRu",
+        "image": "https://media.sketchfab.com/models/fbe6843f402c4290b1c2ffa20363973e/thumbnails/4d713521aacc431a9665f1e2cfe037a0/6fdccce0e8fb48a9b31e4e7b82600bbf.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.272554,
+          46.956354
+        ]
+      },
+      "properties": {
+        "name": "Puit de l'Entonnoir",
+        "discussion": "",
+        "scan3d": "https://skfb.ly/pIIRH",
+        "image": "https://media.sketchfab.com/models/1c531942962b4c198f4eac724ec3c624/thumbnails/e12baaf45be84effad45b228fcccd04e/494fd81940db401dbc614d3276c43f4f.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.273435,
+          46.955877
+        ]
+      },
+      "properties": {
+        "name": "Puit de Jade",
+        "discussion": "",
+        "scan3d": "https://skfb.ly/pIIRX",
+        "image": "https://media.sketchfab.com/models/2f07e2bc27534bb2a42651d6ca227f7a/thumbnails/cd3883deaae1466d9a3e664a364297a7/676e16660460474680818390970b1ad3.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.275669,
+          46.955392
+        ]
+      },
+      "properties": {
+        "name": "Puit de l'Araignée verte",
+        "discussion": "",
+        "scan3d": "https://skfb.ly/pIIS8",
+        "image": "https://media.sketchfab.com/models/f11a84e9ee8f4f51b498e36418016b11/thumbnails/e04e9ebe95b044eabf2a837e6ad36558/e5201a68265a4d73b773f88eec9a1562.jpeg"
+      }
+    }
+  ]
+}
