@@ -43,7 +43,7 @@
         ]
       },
       "properties": {
-        "name": "Puit de l'Entonnoir",
+        "name": "Puit de l Entonnoir",
         "discussion": "",
         "scan3d": "https://skfb.ly/pIIRH",
         "image": "https://media.sketchfab.com/models/1c531942962b4c198f4eac724ec3c624/thumbnails/e12baaf45be84effad45b228fcccd04e/494fd81940db401dbc614d3276c43f4f.jpeg"
@@ -59,7 +59,7 @@
         ]
       },
       "properties": {
-        "name": "Puit de Jade",
+        "name": "Effondrement de Jade",
         "discussion": "",
         "scan3d": "https://skfb.ly/pIIRX",
         "image": "https://media.sketchfab.com/models/2f07e2bc27534bb2a42651d6ca227f7a/thumbnails/cd3883deaae1466d9a3e664a364297a7/676e16660460474680818390970b1ad3.jpeg"
@@ -75,10 +75,58 @@
         ]
       },
       "properties": {
-        "name": "Puit de l'Araignée verte",
+        "name": "Puit de l Araignée verte",
         "discussion": "",
         "scan3d": "https://skfb.ly/pIIS8",
         "image": "https://media.sketchfab.com/models/f11a84e9ee8f4f51b498e36418016b11/thumbnails/e04e9ebe95b044eabf2a837e6ad36558/e5201a68265a4d73b773f88eec9a1562.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27577,
+          46.95527
+        ]
+      },
+      "properties": {
+        "name": "Puit Moussu",
+        "discussion": "",
+        "scan3d": "",
+        "image": "https://sketchfab.com/blogs/enterprise/wp-content/uploads/sites/3/2018/07/logo.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27447,
+          46.95818
+        ]
+      },
+      "properties": {
+        "name": "Horizontal anonyme",
+        "discussion": "",
+        "scan3d": "",
+        "image": "https://sketchfab.com/blogs/enterprise/wp-content/uploads/sites/3/2018/07/logo.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27447,
+          46.95848
+        ]
+      },
+      "properties": {
+        "name": "Gisement des Cailloux",
+        "discussion": "",
+        "scan3d": "",
+        "image": "https://sketchfab.com/blogs/enterprise/wp-content/uploads/sites/3/2018/07/logo.png"
       }
     }
   ]
