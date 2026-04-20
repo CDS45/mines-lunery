@@ -43,7 +43,7 @@
         ]
       },
       "properties": {
-        "name": "Puit de l Entonnoir",
+        "name": "Trou de l Entonnoir",
         "discussion": "",
         "scan3d": "https://skfb.ly/pIIRH",
         "image": "https://media.sketchfab.com/models/1c531942962b4c198f4eac724ec3c624/thumbnails/e12baaf45be84effad45b228fcccd04e/494fd81940db401dbc614d3276c43f4f.jpeg"
@@ -107,7 +107,7 @@
         ]
       },
       "properties": {
-        "name": "Horizontal anonyme",
+        "name": "Trou Terrier",
         "discussion": "",
         "scan3d": "",
         "image": "https://sketchfab.com/blogs/enterprise/wp-content/uploads/sites/3/2018/07/logo.png"
@@ -127,6 +127,54 @@
         "discussion": "",
         "scan3d": "",
         "image": "https://sketchfab.com/blogs/enterprise/wp-content/uploads/sites/3/2018/07/logo.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27331,
+          46.957
+        ]
+      },
+      "properties": {
+        "name": "Horizontal Anonyme",
+        "discussion": "",
+        "scan3d": "https://skfb.ly/pIKN6",
+        "image": "https://media.sketchfab.com/models/e0ff789305fd436ebca771afdc91bbd3/thumbnails/bd2644dab475463ba49d4f2f7c887e89/61b724f92ef44791919c13c88185ab66.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27436,
+          46.95639
+        ]
+      },
+      "properties": {
+        "name": "Effondrement",
+        "discussion": "",
+        "scan3d": "https://skfb.ly/pIKNQ",
+        "image": "https://media.sketchfab.com/models/26e372b87bf14d868c23ad24d770ef6e/thumbnails/3430175cb06043e8a6c8adc55fc3ce30/c96c1d8212ed49fa9c04c4c37162a128.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2739,
+          46.9562
+        ]
+      },
+      "properties": {
+        "name": "Puit Lambda",
+        "discussion": "",
+        "scan3d": "https://skfb.ly/pIKNV",
+        "image": "https://media.sketchfab.com/models/1972868404f74b61a8117f04674d2e69/thumbnails/d26b94dad20642c084d625b12b321a3f/f35a02517c5c480fa7cbc01c69575f38.jpeg"
       }
     }
   ]
