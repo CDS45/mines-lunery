@@ -176,6 +176,22 @@
         "scan3d": "https://skfb.ly/pIKNV",
         "image": "https://media.sketchfab.com/models/1972868404f74b61a8117f04674d2e69/thumbnails/d26b94dad20642c084d625b12b321a3f/f35a02517c5c480fa7cbc01c69575f38.jpeg"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2776,
+          46.95366
+        ]
+      },
+      "properties": {
+        "name": "Puit",
+        "discussion": "",
+        "scan3d": "",
+        "image": "https://sketchfab.com/blogs/enterprise/wp-content/uploads/sites/3/2018/07/logo.png"
+      }
     }
   ]
 }
