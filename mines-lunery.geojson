@@ -110,7 +110,7 @@
         "name": "Trou Terrier",
         "discussion": "",
         "scan3d": "",
-        "image": ""
+        "image": "https://github.com/CDS45/mines-lunery/blob/main/images/trou-terrier.jpeg?raw=true"
       }
     },
     {
@@ -126,7 +126,7 @@
         "name": "Gisement des Cailloux",
         "discussion": "",
         "scan3d": "",
-        "image": ""
+        "image": "https://github.com/CDS45/mines-lunery/blob/main/images/gisement-cailloux.jpeg?raw=true"
       }
     },
     {
@@ -190,7 +190,7 @@
         "name": "Trou",
         "discussion": "",
         "scan3d": "",
-        "image": ""
+        "image": "https://github.com/CDS45/mines-lunery/blob/main/images/trou.jpeg?raw=true"
       }
     }
   ]
