@@ -94,7 +94,7 @@
         "name": "Puit Moussu",
         "discussion": "",
         "scan3d": "",
-        "image": "https://sketchfab.com/blogs/enterprise/wp-content/uploads/sites/3/2018/07/logo.png"
+        "image": "https://raw.githubusercontent.com/CDS45/mines-lunery/fbd11ca6ce7a10801abc92c71836c62d60679e18/images/puit-moussu.jpeg"
       }
     },
     {
@@ -110,7 +110,7 @@
         "name": "Trou Terrier",
         "discussion": "",
         "scan3d": "",
-        "image": "https://sketchfab.com/blogs/enterprise/wp-content/uploads/sites/3/2018/07/logo.png"
+        "image": ""
       }
     },
     {
@@ -126,7 +126,7 @@
         "name": "Gisement des Cailloux",
         "discussion": "",
         "scan3d": "",
-        "image": "https://sketchfab.com/blogs/enterprise/wp-content/uploads/sites/3/2018/07/logo.png"
+        "image": ""
       }
     },
     {
@@ -187,10 +187,10 @@
         ]
       },
       "properties": {
-        "name": "Puit",
+        "name": "Trou",
         "discussion": "",
         "scan3d": "",
-        "image": "https://sketchfab.com/blogs/enterprise/wp-content/uploads/sites/3/2018/07/logo.png"
+        "image": ""
       }
     }
   ]
